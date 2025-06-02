@@ -7,3 +7,5 @@ THE ALL BASICALLY PKGS
 
 rm -rf TERMUXSETUP && git clone https://github.com/Rizwanali444/TERMUXSETUP.git && cd TERMUXSETUP && chmod +x SETUP4 && ./SETUP4
 ![1000319711](https://github.com/user-attachments/assets/88301b39-7d97-40cf-87b8-393744bbef27)
+
+![Uploading 1000319979.jpg…]()
